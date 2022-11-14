@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hoooon1/androidtest/static/css/main.073c9b0a.css",
-    "main.js": "/hoooon1/androidtest/static/js/main.c4692ba4.js",
-    "static/js/787.7a100b89.chunk.js": "/hoooon1/androidtest/static/js/787.7a100b89.chunk.js",
-    "static/media/logo.svg": "/hoooon1/androidtest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hoooon1/androidtest/index.html",
-    "main.073c9b0a.css.map": "/hoooon1/androidtest/static/css/main.073c9b0a.css.map",
-    "main.c4692ba4.js.map": "/hoooon1/androidtest/static/js/main.c4692ba4.js.map",
-    "787.7a100b89.chunk.js.map": "/hoooon1/androidtest/static/js/787.7a100b89.chunk.js.map"
+    "main.css": "/androidtest/static/css/main.073c9b0a.css",
+    "main.js": "/androidtest/static/js/main.204337d9.js",
+    "static/js/787.7a100b89.chunk.js": "/androidtest/static/js/787.7a100b89.chunk.js",
+    "static/media/logo.svg": "/androidtest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/androidtest/index.html",
+    "main.073c9b0a.css.map": "/androidtest/static/css/main.073c9b0a.css.map",
+    "main.204337d9.js.map": "/androidtest/static/js/main.204337d9.js.map",
+    "787.7a100b89.chunk.js.map": "/androidtest/static/js/787.7a100b89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c4692ba4.js"
+    "static/js/main.204337d9.js"
   ]
 }

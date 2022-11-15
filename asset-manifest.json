@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/androidtest/static/css/main.073c9b0a.css",
-    "main.js": "/androidtest/static/js/main.5005b4b4.js",
+    "main.css": "/androidtest/static/css/main.244219c9.css",
+    "main.js": "/androidtest/static/js/main.e4df40f2.js",
     "static/js/787.7a100b89.chunk.js": "/androidtest/static/js/787.7a100b89.chunk.js",
-    "static/media/logo.svg": "/androidtest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/NotoSansKR-Light.otf": "/androidtest/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/street.jpg": "/androidtest/static/media/street.2dba0c7b46eef7e542f7.jpg",
+    "static/media/recipekorea.ttf": "/androidtest/static/media/recipekorea.7c8b6d145e70b92f4010.ttf",
+    "static/media/introducelanding1.png": "/androidtest/static/media/introducelanding1.4709ce97506eb6134726.png",
+    "static/media/image1.png": "/androidtest/static/media/image1.1b2cdbaec1e80cffb29f.png",
+    "static/media/image2.png": "/androidtest/static/media/image2.86fc219769ea9a94f36a.png",
+    "static/media/textImage1.png": "/androidtest/static/media/textImage1.b087e22e7b7b7fc2fd12.png",
+    "static/media/textImage2.png": "/androidtest/static/media/textImage2.4d9a0ea72055239bad4a.png",
     "index.html": "/androidtest/index.html",
-    "main.073c9b0a.css.map": "/androidtest/static/css/main.073c9b0a.css.map",
-    "main.5005b4b4.js.map": "/androidtest/static/js/main.5005b4b4.js.map",
+    "main.244219c9.css.map": "/androidtest/static/css/main.244219c9.css.map",
+    "main.e4df40f2.js.map": "/androidtest/static/js/main.e4df40f2.js.map",
     "787.7a100b89.chunk.js.map": "/androidtest/static/js/787.7a100b89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5005b4b4.js"
+    "static/css/main.244219c9.css",
+    "static/js/main.e4df40f2.js"
   ]
 }

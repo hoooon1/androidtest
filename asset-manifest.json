@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/androidtest/static/css/main.167ba28f.css",
+    "main.css": "/androidtest/static/css/main.9c4fabc3.css",
     "main.js": "/androidtest/static/js/main.e4df40f2.js",
     "static/js/787.7a100b89.chunk.js": "/androidtest/static/js/787.7a100b89.chunk.js",
     "static/media/NotoSansKR-Light.otf": "/androidtest/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
@@ -12,12 +12,12 @@
     "static/media/textImage1.png": "/androidtest/static/media/textImage1.b087e22e7b7b7fc2fd12.png",
     "static/media/textImage2.png": "/androidtest/static/media/textImage2.4d9a0ea72055239bad4a.png",
     "index.html": "/androidtest/index.html",
-    "main.167ba28f.css.map": "/androidtest/static/css/main.167ba28f.css.map",
+    "main.9c4fabc3.css.map": "/androidtest/static/css/main.9c4fabc3.css.map",
     "main.e4df40f2.js.map": "/androidtest/static/js/main.e4df40f2.js.map",
     "787.7a100b89.chunk.js.map": "/androidtest/static/js/787.7a100b89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.167ba28f.css",
+    "static/css/main.9c4fabc3.css",
     "static/js/main.e4df40f2.js"
   ]
 }
